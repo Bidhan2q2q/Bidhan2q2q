@@ -1,10 +1,7 @@
 
-https://yt3.googleusercontent.com/05QV3XSK3jneYk-swSKKJ4yc0g59xqn1ymio7oiWwEAhcwlM-9zN0DKWWwfMwxuR8NdKhfZa=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj
-
-
+![I am font end web developer ](https://yt3.googleusercontent.com/05QV3XSK3jneYk-swSKKJ4yc0g59xqn1ymio7oiWwEAhcwlM-9zN0DKWWwfMwxuR8NdKhfZa=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 ### Hi there 👋, my name is bidhan baishya
 #### I am font end web developer 
-
 
 Meet Bidhan, a talented and passionate programmer.Bidhan is a programmer who brings a unique blend of technical skill,creativity to every project they undertake
 
@@ -31,6 +28,4 @@ Skills: HTML / CSS/ JS/ PHP/ PY
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/Bidhan2q2q)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Bidhan2q2q)  
-
-
 
